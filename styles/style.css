@@ -14,3 +14,31 @@
   min-inline-size: 320px;
   min-block-size: 100dvb;
 }
+
+.filter-grayscale {
+  filter: grayscale(70%);
+}
+
+.filter-saturate {
+  filter: saturate(250%);
+}
+
+.filter-multiple {
+  filter: contrast(50%) hue-rotate(35deg) saturate(130%);
+}
+
+.filter-invert {
+  filter: invert(100%);
+}
+
+.filter-sepia {
+  filter: sepia(90%);
+}
+
+.filter-blur {
+  filter: blur(10px);
+}
+
+.filter-hue-rotate {
+  filter: hue-rotate(210deg) blur(5px);
+}
