@@ -1,1 +1,1 @@
-https://kesolit.github.io/zakrivayuschiy-teg-ad/
+https://github.com/Kesolit/zakrivayuschiy-teg-ad
